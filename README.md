@@ -48,7 +48,7 @@ For example: `./uls -l test`
 
 ## Authors
 <p align="center">People that made this program:</p>
-    <p align="center"><a href="https://github.com/NogaKazaha" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/osavich.jpg" height="100px"></a></p>
+    <p align="center"><a href="https://github.com/NogaKazaha" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/osavich.jpg" height="100px"></a></p>
     <h2 align="center">osavich</h2>
-    <p align="center"><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Vitalii.jpg" height="100px"></a></p>
+    <p align="center"><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/NogaKazaha/blob/master/img/Photos/Vitalii.jpg" height="100px"></a></p>
     <h2 align="center">vsvietkov</h2>
