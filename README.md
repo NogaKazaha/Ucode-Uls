@@ -47,5 +47,8 @@ For example: `./uls -l test`
 `-1`  Force output to be one entry per line.  This is the default when output is not to a terminal.  
 
 ## Authors
-<p><p align="center"><a href="https://github.com/NogaKazaha" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/osavich.jpg" height="200px"></a></p>
-<p><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Vitalii.jpg" height="200px"></a></p></p>
+<p align="center">This people turned the idea into reality. Click to visit Github page! P.S: Not all of us have their own Github</p>
+    <p align="center"><a href="https://github.com/NogaKazaha" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/osavich.jpg" height="100px"></a></p>
+    <h2 align="center">osavich</h2>
+    <p align="center"><a href="https://github.com/VitaliiSvietkov" target="_blank"><img src="https://github.com/NogaKazaha/Ucode-Endgame/blob/master/gitimage/Vitalii.jpg" height="100px"></a></p>
+    <h2 align="center">vsvietkov</h2>
